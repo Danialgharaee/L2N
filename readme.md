@@ -1,4 +1,7 @@
 # L2N - Link 2 Notes Chrome Extension
+<p align="center">
+  <img src="https://github.com/Danialgharaee/L2N/blob/master/icon.png" width="128px" height="128px"/></p
+
 L2N (Link 2 Notes) is a Chrome browser extension created as a learning experience and a useful tool for personal writing. While I typically use Notion for notetaking, I realized that managing everything in markdown files works best for crafting short articles. This realization led me to create L2N.
 
 The current version of the extension is relatively basic, but I have plans to improve it over time. As my knowledge of extension development grows, I will enhance and potentially share it with others.
